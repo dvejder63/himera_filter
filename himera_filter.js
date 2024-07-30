@@ -124,7 +124,7 @@
   
        // Check if the income is greater than 450k
        const income = parseInt(reportDetails.income);
-       if (income <= 500000) {
+       if (income <= 80000) {
          return false;
        }
        // If all criteria are met, return true
@@ -162,7 +162,7 @@
   
        // Check if the income is greater than 450k
        const income = parseInt(reportDetails.income);
-       if (income <= 500000) {
+       if (income <= 80000) {
          return true;
        }
   
