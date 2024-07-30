@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         Рект 2.0
+// @name         Рект 2.1
 // @namespace    http://tampermonkey.net/
-// @version      1.2b
-// @description  Alham!
-// @author       Anchoys
+// @version      1.0
+// @description  filtering the himera report
+// @author       Ayti
 // @match        https://himera-search.net/report/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=himera-search.net
 // @grant        none
-// @updateURL    https://petrovsasha228.vercel.app/rekt.js
-// @downloadURL  https://petrovsasha228.vercel.app/rekt.js
+// @updateURL    raw.githubusercontent.com/dvejder63/himera_filter/main/himera_filter.js
+// @downloadURL  raw.githubusercontent.com/dvejder63/himera_filter/main/himera_filter.js
 // ==/UserScript==
 
 (function () {
